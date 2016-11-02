@@ -8,8 +8,8 @@ As of Nov 2, 2016
 Unchanged from o1:
  elements.xml
  materials.xml
- Support.xml
- BeamPipe.xml
+ Support.xml (not used)
+ BeamPipe.xml (not used)
  Solenoid_o2_v01_00.xml
  SiVertexBarrel.xml
  SiVertexEndcap.xml
