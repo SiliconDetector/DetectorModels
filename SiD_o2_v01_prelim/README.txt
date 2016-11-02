@@ -22,7 +22,7 @@ Unchanged from o1:
  MuonEndcap_o2_v01_00.xml	
 
 Updated:
- SiD_o2_v01.xml
+ SiD_o2_v01.xml (includes and dimensions)
  SiTrackerBarrel_o2_v01_00.xml
  SiTrackerEndcap_o2_v01_00.xml
  HCalBarrel_o2_v01_00.xml	
@@ -30,3 +30,6 @@ Updated:
  
 In work:
  SiTrackerEndcap_o2_v02_00.xml
+ associated drivers (see DESY SVN)
+ 
+Use Slack for any enquiries.
