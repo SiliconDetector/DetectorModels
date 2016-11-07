@@ -3,7 +3,7 @@ This model is in work, and temporarily incomplete.
 
 The '_prelim' suffix will be removed once the option 2 is finalized.
 
-As of Nov 2, 2016
+As of Nov 7, 2016
 
 Unchanged from o1:
  elements.xml
