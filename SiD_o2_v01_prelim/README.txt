@@ -12,7 +12,6 @@ Unchanged from o1:
  BeamPipe.xml (not used)
  Solenoid_o2_v01_00.xml
  SiVertexBarrel.xml
- SiVertexEndcap.xml
  SiTrackerForward.xml
  BeamCal_o2_v01_00.xml
  LumiCal_o2_v01_00.xml	
@@ -23,6 +22,7 @@ Unchanged from o1:
 
 Added or updated:
  SiD_o2_v01.xml (includes and dimensions)
+ SiVertexEndcap_o2_v01_00.xml 
  SiTrackerBarrel_o2_v01_00.xml
  SiTrackerEndcap_o2_v01_00.xml
  SiTrackerEndcap_o2_v03_00.xml
