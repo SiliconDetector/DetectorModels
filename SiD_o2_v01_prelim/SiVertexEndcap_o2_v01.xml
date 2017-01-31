@@ -4,7 +4,7 @@
   <readout name="SiVertexEndcapHits">
       <!--id>system:6,barrel:3,layer:4,wedge:6,module:6,sensor:1,side:32:-2,strip:24</id -->
       <!-- standard ILD and CLIC encoder string -->
-      <id>system:5,side:2,layer:9,module:8,sensor:8</id>
+      <id>system:5,side:2,layer:9,module:8,sensor:8,x:32:-16,y:-16</id>
   </readout>
 </readouts>
 
