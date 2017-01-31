@@ -9,7 +9,7 @@
       <segmentation type="CartesianGridXY" grid_size_x="3.0*cm" grid_size_y="3.0*cm" />
       <!-- <segmentation type="GlobalGridXY" gridSizeX="1.0*cm" gridSizeY="1.0*cm" /> -->
       <!-- <id>system:6,barrel:3,module:4,layer:8,slice:5,x:32:-16,y:-16</id> -->
-      <id>system:5,side:2,layer:9,module:8,sensor:8</id>
+      <id>system:5,side:2,layer:9,module:8,sensor:8, x:32:-16, y:-16</id>
     </readout>
 </readouts>
 
